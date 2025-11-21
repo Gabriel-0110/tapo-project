@@ -13,6 +13,8 @@
   "dependencies": {
     "@aws-sdk/client-s3": "^3.937.0",
     "@aws-sdk/s3-request-presigner": "^3.937.0",
-    "@modelcontextprotocol/server-redis": "^2025.4.25"
+    "@modelcontextprotocol/server-filesystem": "^2025.8.21",
+    "@modelcontextprotocol/server-redis": "^2025.4.25",
+    "@vscode-mcp/vscode-mcp-server": "^4.5.0"
   }
 }
