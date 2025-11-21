@@ -12,6 +12,7 @@
   "type": "commonjs",
   "dependencies": {
     "@aws-sdk/client-s3": "^3.937.0",
-    "@aws-sdk/s3-request-presigner": "^3.937.0"
+    "@aws-sdk/s3-request-presigner": "^3.937.0",
+    "@modelcontextprotocol/server-redis": "^2025.4.25"
   }
 }
